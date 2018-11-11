@@ -1,13 +1,15 @@
 # TurtleEscape
-This is a coding assessment for ![LetsGetChecked](https://www.letsgetchecked.com/)
+This is a coding assessment for [LetsGetChecked](https://www.letsgetchecked.com/)
 
 ## Screenshot
-![console]()
+![console](https://github.com/stsrki/TurtleEscape/blob/master/Docs/console.png)
 
 ## How to use
 Open solution and build the application. After successful build run the application through the command prompt with the following parameters:
 
 `$ TurtleEscape -g game-settings.json -m moves-escape.json`
+
+Supported parameters are:
 ```
 -g <game-settings-file>
 -m <sequences-file>
