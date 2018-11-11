@@ -1,0 +1,37 @@
+{
+    "width": 5,
+    "height": 4,
+    "mines": [
+        {
+            "position": {
+                "X": 1,
+                "Y": 1
+            }
+        },
+        {
+            "position": {
+                "X": 3,
+                "Y": 1
+            }
+        },
+        {
+            "position": {
+                "X": 3,
+                "Y": 3
+            }
+        }
+    ],
+    "turtle": {
+        "position": {
+            "X": 0,
+            "Y": 1
+        },
+        "rotation": "north"
+    },
+    "exit": {
+        "position": {
+            "X": 4,
+            "Y": 2
+        }
+    }
+}

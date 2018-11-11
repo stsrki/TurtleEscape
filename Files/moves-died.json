@@ -1,0 +1,18 @@
+[
+    {
+        "type": "rotate",
+        "times": 2
+    },
+    {
+        "type": "move",
+        "times": 2
+    },
+    {
+        "type": "rotate",
+        "times": 3
+    },
+    {
+        "type": "move",
+        "times": 3
+    }
+]
