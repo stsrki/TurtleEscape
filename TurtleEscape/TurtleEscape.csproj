@@ -96,7 +96,7 @@
     <Compile Include="Exit.cs" />
     <Compile Include="GameObject.cs" />
     <Compile Include="GameSettings.cs" />
-    <Compile Include="IBoard.cs" />
+    <Compile Include="IGameSettings.cs" />
     <Compile Include="ILogger.cs" />
     <Compile Include="Logger.cs" />
     <Compile Include="Mine.cs" />
